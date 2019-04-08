@@ -1,0 +1,9 @@
+﻿{
+  "update": "Yes",
+  "new_version": "1.3.0",
+  "apk_file_url": "https://github.com/MaxsZhang/SpaceRTK/blob/master/SpaceRTK_v1.3.0.apk",
+  "update_log": "1，添加在线更新功能。\r\n2，添加数据库管理功能。\r\n3，添加土方量计算功能。\r\n4，修复一些小的Bug。",
+  "target_size": "23M",
+  "new_md5":"4e9e65542fb8376ee6bd8d7859993e0c",
+  "constraint": false
+}
