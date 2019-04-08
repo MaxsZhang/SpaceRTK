@@ -1,9 +1,21 @@
-﻿{
-  "update": "Yes",
-  "new_version": "1.2.0",
-  "apk_file_url": "https://github.com/MaxsZhang/SpaceRTK/blob/master/MyDatabase_v1.2.apk",
-  "update_log": "1，添加在线更新功能。\r\n2，添加数据库管理功能。\r\n3，添加土方量计算功能。\r\n4，修复一些小的Bug。",
-  "target_size": "9.5M",
-  "new_md5":"0D8F5A0B727C413EBA27C4E1CBD6DBB3",
-  "constraint": false
+{
+  
+  "Code": 0,
+  
+  "Msg": "",
+  
+  "UpdateStatus": 1,
+  
+  "VersionCode": 2,
+  
+  "VersionName": "1.2.0",
+  
+  "UploadTime": "2019-04-08 16:40:20",
+  
+  "ModifyContent": "\r\n1、添加在线更新功能。\r\n2、添加数据库管理功能。\r\n3、添加土方量计算功能。\r\n4、修复一些小的Bug。",
+  
+  "DownloadUrl": "https://raw.githubusercontent.com/MaxsZhang/SpaceRTK/master/MyDatabase_v1.2.apk",
+  
+  "ApkSize": 2048
+
 }
