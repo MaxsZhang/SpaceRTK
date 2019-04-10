@@ -11,11 +11,11 @@
   
   "UploadTime": "2019-04-09 16:10:20",
   
-  "ModifyContent": "\r\n1、添加在线更新功能。\r\n2、添加数据库管理功能。\r\n3、修复一下小bug。",
+  "ModifyContent": "\r\n1、添加在线更新功能。\r\n2、添加数据库管理功能。\r\n3、此为release版本。",
   
   "DownloadUrl": "https://raw.githubusercontent.com/MaxsZhang/SpaceRTK/master/SpaceRTK_v1.3.0r.apk",
    
-  "ApkMd5": "BC7D1FB1142922DDF4173DFAAF3B90F1",
+  "ApkMd5": "CBA03DD6EE32AC44A097A6861DCCF3A7",
   
   "ApkSize": 23440
 }
