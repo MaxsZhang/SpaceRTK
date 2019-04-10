@@ -13,9 +13,9 @@
   
   "ModifyContent": "\r\n1、添加在线更新功能。\r\n2、添加数据库管理功能。\r\n3、修复一下小bug。",
   
-  "DownloadUrl": "https://raw.githubusercontent.com/MaxsZhang/SpaceRTK/master/SpaceRTK_v1.3.0.apk",
+  "DownloadUrl": "https://raw.githubusercontent.com/MaxsZhang/SpaceRTK/master/SpaceRTK_v1.3.0r.apk",
    
   "ApkMd5": "BC7D1FB1142922DDF4173DFAAF3B90F1",
   
-  "ApkSize": 23707
+  "ApkSize": 23440
 }
