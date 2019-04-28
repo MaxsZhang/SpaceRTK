@@ -5,15 +5,15 @@
   
   "UpdateStatus": 1,
   
-  "VersionCode": 7,
+  "VersionCode": 8,
   
-  "VersionName": "1.3.0",
+  "VersionName": "1.3.1",
   
-  "UploadTime": "2019-04-10 16:40:20",
+  "UploadTime": "2019-04-28 11:40:00",
   
-  "ModifyContent": "\r\n1、添加在线更新功能。\r\n2、添加数据库管理功能。",
+  "ModifyContent": "\r\n1、数据库管理功能已经完善，支持增加、删除、修改、查询等操作。",
   
-  "DownloadUrl": "https://raw.githubusercontent.com/MaxsZhang/SpaceRTK/master/SpaceRTK_v1.3.0r.apk",
+  "DownloadUrl": "https://raw.githubusercontent.com/MaxsZhang/SpaceRTK/master/SpaceRTK_v1.3.1r.apk",
   
-  "ApkSize": 23440
+  "ApkSize": 23033
 }
